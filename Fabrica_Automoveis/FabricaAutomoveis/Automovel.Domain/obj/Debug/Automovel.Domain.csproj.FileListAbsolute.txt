@@ -1,0 +1,10 @@
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\bin\Debug\Automovel.Domain.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\bin\Debug\Automovel.Domain.pdb
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\bin\Debug\DTIDomain.Core.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\obj\Debug\Automovel.Domain.csproj.AssemblyReference.cache
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\obj\Debug\Automovel.Domain.csproj.CoreCompileInputs.cache
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\obj\Debug\Automovel.Domain.csproj.CopyComplete
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\obj\Debug\Automovel.Domain.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\obj\Debug\Automovel.Domain.pdb
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\bin\Debug\UtilDLL.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.Domain\bin\Debug\ConexaoNTI.dll

@@ -1,0 +1,12 @@
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\Automovel.DAO.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\Automovel.DAO.pdb
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\Automovel.Domain.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\DTIDAO.Core.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\UtilDLL.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\ConexaoNTI.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\bin\Debug\Automovel.Domain.pdb
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\obj\Debug\Automovel.DAO.csproj.AssemblyReference.cache
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\obj\Debug\Automovel.DAO.csproj.CoreCompileInputs.cache
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\obj\Debug\Automovel.DAO.csproj.CopyComplete
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\obj\Debug\Automovel.DAO.dll
+C:\Fabrica_Automoveis\FabricaAutomoveis\Automovel.DAO\obj\Debug\Automovel.DAO.pdb
